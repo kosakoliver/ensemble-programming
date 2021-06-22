@@ -30,6 +30,9 @@ The contents of this page are video materials dedicated to the following purpose
 - [SCORe] - video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
  
 ## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
+- [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
