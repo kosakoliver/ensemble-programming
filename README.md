@@ -21,14 +21,14 @@ The contents of this page are video materials dedicated to the following purpose
 
 ## Evaluations of the Algorithmic Pattern for Trajectory-Based Swarm Behavior (Protease) with NetLogo
 - [PROTEASE-NetLogo-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior
-- [PROTEASE-NetLogo-Guided-Boiding] - video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
-- [PROTEASE-NetLogo-PSO] - video on YouTube depicting the execution of Protease generating a PSO swarm behavior
-- [PROTEASE-NetLogo-Triangle] - video on YouTube depicting the execution of Protease generating a Triangle-Formation swarm behavior
-- [PROTEASE-NetLogo-Line-of-Fliers] - video on YouTube depicting the execution of Protease generating a Line-of-Fliers swarm behavior
-- [PROTEASE-NetLogo-Ring-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior
-- [PROTEASE-NetLogo-Ball-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior
-- [PROTEASE-NetLogo-Shape-Form] - video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
-- Additional: [PROTEASE-NetLogo-SCORe] - video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
+- [PROTEASE-NetLogo-Guided-Boiding]: video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
+- [PROTEASE-NetLogo-PSO]: video on YouTube depicting the execution of Protease generating a PSO swarm behavior
+- [PROTEASE-NetLogo-Triangle]: video on YouTube depicting the execution of Protease generating a Triangle swarm behavior
+- [PROTEASE-NetLogo-Line-of-Fliers]: video on YouTube depicting the execution of Protease generating a Line-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ring-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ball-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Shape-Form]: video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
+- [PROTEASE-NetLogo-SCORe] (additional): video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
 
 
 ## Evaluations of the Maple Designer
@@ -39,6 +39,14 @@ The contents of this page are video materials dedicated to the following purpose
 ## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 
 Control Structures and Coordination
+- [MAPLE-Any-Agent]: video on YouTube depicting an exemplary usage of the Any-Agent
+- [MAPLE-All-Agent]: video on YouTube depicting an exemplary usage of the All-Agent
+- [MAPLE-Swarm-Agent]: video on YouTube depicting an exemplary usage of the Swarm-Agent
+- [MAPLE-Set-Agent]: video on YouTube depicting an exemplary usage of the Set-Agent
+- [MAPLE-Sequential-Execution]: video on YouTube depicting an exemplary sequential execution
+- [MAPLE-Parallel-Execution]: video on YouTube depicting an exemplary sequential execution
+- [MAPLE-Repeated-and-Conditional-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
+- [MAPLE-Replanning-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
 
 Collective Capabilities
  - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
