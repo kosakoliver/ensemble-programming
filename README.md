@@ -50,7 +50,7 @@ Control Structures and Coordination
 
 Collective Capabilities
  
-Protease
+Protease - Modifying the Calculation Function
 - [PROTEASE-Calculator-PSO]: video on YouTube depicting the execution of Protease generating a PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Boiding]: video on YouTube depicting the execution of Protease generating a Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Triangle]: video on YouTube depicting the execution of Protease generating a Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
@@ -59,7 +59,7 @@ Protease
 - [PROTEASE-Calculator-Ring-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Ball-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
-- 
+ 
 - [PROTEASE-Calculator-PSO-User]: video on YouTube depicting the execution of Protease generating a user-controlled PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Boiding-User]: video on YouTube depicting the execution of Protease generating a user-controlled Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Triangle-User]: video on YouTube depicting the execution of Protease generating a user-controlled Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
@@ -69,8 +69,17 @@ Protease
 - [PROTEASE-Calculator-Ball-of-Fliers-User]: video on YouTube depicting the execution of Protease generating a user-controlled Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 - [PROTEASE-Calculator-Gathering-User]: video on YouTube depicting the execution of Protease generating a user-controlled Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
 
+Protease - Modifying the Termination Function
+- [PROTEASE-Termination-Centroid]: video on YouTube depicting the self termination of Protease using a centroid termination with threshold 0.2 m integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Termination-Unknown-Measurement]: video on YouTube depicting the self termination of Protease using a unknown measurement termination (simulated gas concentration above threshold) integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Termination-User]: video on YouTube depicting the user termination of Protease integrated in the Multipotent Systems reference architecture
 
-Protelis
+Protease - Modifying the Aggregation Function
+- [PROTEASE-Aggregation-Centroid]: video on YouTube depicting the aggregation function centroid of Protease integrated in the Multipotent Systems reference architecture
+- - [PROTEASE-Aggregation-Unknown-Measurement]: video on YouTube depicting the aggregation function centroid of Protease integrated in the Multipotent Systems reference architecture
+
+
+Collective Capability for Protelis Programs
 - [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
