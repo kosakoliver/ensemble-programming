@@ -13,21 +13,22 @@ The contents of this page are video materials dedicated to the following purpose
 - Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 
 
-## Evaluations of the concepts from the Multipotent Systems reference architecture using our prototypical reference implementation deployed to  real hardware
+## Evaluations of the Concepts from the Multipotent Systems Reference Architecture Using the Prototypical Reference Implementation Deployed to  Real Hardware
 - [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign] - video on YouTube depicting the field experiment performed during the ScaleX 2016 measuring campaign demonstrating the feasibility of cooperatively transporting a DTS optic-fiber measuring unit with a Multipotent System
 
-## Evaluation of the task allocation mechanism using real hardware
+## Evaluation of the Task Allocation Mechanism Using Real Hardware
 - [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex] - video on YoutTube depicting the mechanism for Self-Organized task allocation deomonstrated at the 10th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO) 2016
 
 ## Evaluations of the Algorithmic Pattern for Trajectory-Based Swarm Behavior (Protease) with NetLogo
-- [Guided-Boiding] - video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
-- [Triangle-Formation] - video on YouTube depicting the execution of Protease generating a Triangle-Formation swarm behavior
-- [Line-of-Fliers] - video on YouTube depicting the execution of Protease generating a Line-of-Fliers swarm behavior
-- [Ring-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior
-- [Ball-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior
-- [Shape-Form] - video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
-- [PSO] - video on YouTube depicting the execution of Protease generating a PSO swarm behavior
-- [SCORe] - video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
+- [PROTEASE-NetLogo-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior
+- [PROTEASE-NetLogo-Guided-Boiding] - video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
+- [PROTEASE-NetLogo-PSO] - video on YouTube depicting the execution of Protease generating a PSO swarm behavior
+- [PROTEASE-NetLogo-Triangle] - video on YouTube depicting the execution of Protease generating a Triangle-Formation swarm behavior
+- [PROTEASE-NetLogo-Line-of-Fliers] - video on YouTube depicting the execution of Protease generating a Line-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ring-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Ball-of-Fliers] - video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior
+- [PROTEASE-NetLogo-Shape-Form] - video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
+- Additional: [PROTEASE-NetLogo-SCORe] - video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
 
 
 ## Evaluations of the Maple Designer
@@ -36,6 +37,15 @@ The contents of this page are video materials dedicated to the following purpose
  - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
 
 ## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
+
+Control Structures and Coordination
+
+Collective Capabilities
+ - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
+ 
+Protease
+
+Protelis
 - [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
