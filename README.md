@@ -31,6 +31,10 @@ The contents of this page are video materials dedicated to the following purpose
 
 
 ## Evaluations of the Maple Designer
+ - [Maple-Seeding-Robot] - video demonstrating the execution of the seeding robot scenario
+ - [MAPLE-Forest-Fire-Planning-Execution] - video demonstrating the execution of the Forest-Fire-HTN within a 2D-dimensional simulation environment
+ - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
+
 ## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 - [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
@@ -52,3 +56,7 @@ The contents of this page are video materials dedicated to the following purpose
  [Protelis-Termination]: <https://youtu.be/fEofIuMbOZo>
  [Protelis-Communication]: <https://youtu.be/JqPyfLgzzY8>
  [Protelis-Capability-Access]: <https://youtu.be/IUZt5rqgBP8>
+
+ [MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/1caigf9RcKk>
+ [MAPLE-Forest-Fire-Planning-Execution]: <>
+ [Maple-Seeding-Robot]: <>
