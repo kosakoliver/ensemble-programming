@@ -14,10 +14,10 @@ The contents of this page are video materials dedicated to the following purpose
 
 
 ## Evaluations of the concepts from the Multipotent Systems reference architecture using our prototypical reference implementation deployed to  real hardware
-- [ScaleX2016] - video on YouTube depicting the field experiment performed during the ScaleX 2016 measuring campaign demonstrating the feasibility of cooperatively transporting a DTS optic-fiber measuring unit with a Multipotent System
+- [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign] - video on YouTube depicting the field experiment performed during the ScaleX 2016 measuring campaign demonstrating the feasibility of cooperatively transporting a DTS optic-fiber measuring unit with a Multipotent System
 
 ## Evaluation of the task allocation mechanism using real hardware
-- [SASO2016] - video on YoutTube depicting the mechanism for Self-Organized task allocation deomonstrated at the 10th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO) 2016
+- [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex] - video on YoutTube depicting the mechanism for Self-Organized task allocation deomonstrated at the 10th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO) 2016
 
 ## Evaluations of the Algorithmic Pattern for Trajectory-Based Swarm Behavior (Protease) with NetLogo
 - [Guided-Boiding] - video on YouTube depicting the execution of Protease generating a Guided-Boiding swarm behavior
@@ -28,7 +28,9 @@ The contents of this page are video materials dedicated to the following purpose
 - [Shape-Form] - video on YouTube depicting the execution of Protease generating a Shape-Form swarm behavior
 - [PSO] - video on YouTube depicting the execution of Protease generating a PSO swarm behavior
 - [SCORe] - video on YouTube depicting the execution of Protease configurations relevant for a SCORe mission relevant for Major Catastrophe Handling
- 
+
+
+## Evaluations of the Maple Designer
 ## Evaluations of the execution of Ensemble Programs generated within the approach Maple using the prototypical reference implementation of Multipotent Systems
 - [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
 - [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
@@ -44,3 +46,9 @@ The contents of this page are video materials dedicated to the following purpose
  [Shape-Form]: <>
  [PSO]: <>
  [SCORe]: <>
+ [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
+ [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
+ 
+ [Protelis-Termination]: <https://youtu.be/fEofIuMbOZo>
+ [Protelis-Communication]: <https://youtu.be/JqPyfLgzzY8>
+ [Protelis-Capability-Access]: <https://youtu.be/IUZt5rqgBP8>
