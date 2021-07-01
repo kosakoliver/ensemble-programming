@@ -49,9 +49,26 @@ Control Structures and Coordination
 - [MAPLE-Replanning-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
 
 Collective Capabilities
- - [MAPLE-Forest-Fire-HTN-Design] - video demonstrating the Design of the Forest-Fire-HTN
  
 Protease
+- [PROTEASE-Calculator-PSO]: video on YouTube depicting the execution of Protease generating a PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Boiding]: video on YouTube depicting the execution of Protease generating a Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Triangle]: video on YouTube depicting the execution of Protease generating a Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Potential-Field]: video on YouTube depicting the execution of Protease generating a Potential-Field swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Line]: video on YouTube depicting the execution of Protease generating a Line swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ring-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ring-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ball-of-Fliers]: video on YouTube depicting the execution of Protease generating a Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Gathering]: video on YouTube depicting the execution of Protease generating a Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- 
+- [PROTEASE-Calculator-PSO-User]: video on YouTube depicting the execution of Protease generating a user-controlled PSO swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Boiding-User]: video on YouTube depicting the execution of Protease generating a user-controlled Boiding swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Triangle-User]: video on YouTube depicting the execution of Protease generating a user-controlled Triangle swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Potential-Field-User]: video on YouTube depicting the execution of Protease generating a user-controlled Potential-Field swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Line-User]: video on YouTube depicting the execution of Protease generating a user-controlled Line swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ring-of-Fliers-User]: video on YouTube depicting the execution of Protease generating a user-controlled Ring-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Ball-of-Fliers-User]: video on YouTube depicting the execution of Protease generating a user-controlled Ball-of-Fliers swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+- [PROTEASE-Calculator-Gathering-User]: video on YouTube depicting the execution of Protease generating a user-controlled Gathering swarm behavior encapsulated in a Collective Capability integrated in the Multipotent Systems reference architecture
+
 
 Protelis
 - [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
