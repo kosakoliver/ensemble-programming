@@ -86,21 +86,57 @@ Collective Capability for Protelis Programs
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
- [Guided-Boiding]: <https://github.com/joemccann/dillinger>
- [Triangle-Formation]: <>
- [Line-of-Fliers]: <>
- [Ring-of-Fliers]: <>
- [Ball-of-Fliers]: <>
- [Shape-Form]: <>
- [PSO]: <>
- [SCORe]: <>
- [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
- [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
- 
- [Protelis-Termination]: <https://youtu.be/fEofIuMbOZo>
- [Protelis-Communication]: <https://youtu.be/JqPyfLgzzY8>
- [Protelis-Capability-Access]: <https://youtu.be/IUZt5rqgBP8>
+[Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
+[SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
 
- [MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/1caigf9RcKk>
- [MAPLE-Forest-Fire-Planning-Execution]: <>
- [Maple-Seeding-Robot]: <>
+[PROTEASE-NetLogo-Gathering]: <>
+[PROTEASE-NetLogo-Guided-Boiding]: <>
+[PROTEASE-NetLogo-PSO]: <>
+[PROTEASE-NetLogo-Triangle]: <>
+[PROTEASE-NetLogo-Line-of-Fliers]: <>
+[PROTEASE-NetLogo-Ring-of-Fliers]: <>
+[PROTEASE-NetLogo-Ball-of-Fliers]: <>
+[PROTEASE-NetLogo-Shape-Form]: <>
+[PROTEASE-NetLogo-SCORe]: <>
+
+[Maple-Seeding-Robot]: <>
+[MAPLE-Forest-Fire-Planning-Execution]: <>
+[MAPLE-Forest-Fire-HTN-Design]: <>
+
+[MAPLE-Any-Agent]: <>
+[MAPLE-All-Agent]: <>
+[MAPLE-Swarm-Agent]: <>
+[MAPLE-Set-Agent]: <>
+[MAPLE-Sequential-Execution]: <>
+[MAPLE-Parallel-Execution]: <>
+[MAPLE-Repeated-and-Conditional-Execution]: <>
+[MAPLE-Replanning-Execution]: <>
+
+[PROTEASE-Calculator-PSO]: <>
+[PROTEASE-Calculator-Boiding]: <>
+[PROTEASE-Calculator-Triangle]: <>
+[PROTEASE-Calculator-Potential-Field]: <>
+[PROTEASE-Calculator-Line]: <>
+[PROTEASE-Calculator-Ring-of-Fliers]: <>
+[PROTEASE-Calculator-Ball-of-Fliers]: <>
+[PROTEASE-Calculator-Gathering]: <>
+ 
+[PROTEASE-Calculator-PSO-User]: <>
+[PROTEASE-Calculator-Boiding-User]: <>
+[PROTEASE-Calculator-Triangle-User]: <>
+[PROTEASE-Calculator-Potential-Field-User]: <>
+[PROTEASE-Calculator-Line-User]: <>
+[PROTEASE-Calculator-Ring-of-Fliers-User]: <>
+[PROTEASE-Calculator-Ball-of-Fliers-User]: <>
+[PROTEASE-Calculator-Gathering-User]: <>
+
+[PROTEASE-Termination-Centroid]: <>
+[PROTEASE-Termination-Unknown-Measurement]: <>
+[PROTEASE-Termination-User]: <>
+
+[PROTEASE-Aggregation-Centroid]: <>
+[PROTEASE-Aggregation-Unknown-Measurement]: <>
+
+[Protelis-Termination]: <>
+[Protelis-Communication]: <>
+[Protelis-Capability-Access]: <>
