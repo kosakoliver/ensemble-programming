@@ -80,28 +80,32 @@ Protease - Modifying the Aggregation Function
 
 
 Collective Capability for Protelis Programs
-- [Protelis-Termination] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Communication] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
-- [Protelis-Capability-Access] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Termination-Test] - video on YouTube depicting the correct termination of a Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Count-Neighbors-Test] - video on YouTube depicting the correct communication within Protelis program executed as External Capability in a Multipotent System
+- [Protelis-Measure-Temperature-Test] - video on YouTube depicting the correct access of capabilities within Protelis program executed as External Capability in a Multipotent System
+
+
+Maple Combined Execution
+- [MAPLE-Combined-Execution] - video on YouTube depicting the combined execution of many MAPLE elements
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [Flying robot ensemble in action at the ScaleX 2016 geographic measurement campaign]: <https://youtu.be/MWNyUymtNSs>
 [SASO 2016 - Decentralized Coordination of Heterogeneous Ensembles Using Jadex]: <https://youtu.be/G8JHShUlQY0>
 
-[PROTEASE-NetLogo-Gathering]: <>
-[PROTEASE-NetLogo-Guided-Boiding]: <>
-[PROTEASE-NetLogo-PSO]: <>
-[PROTEASE-NetLogo-Triangle]: <>
-[PROTEASE-NetLogo-Line-of-Fliers]: <>
-[PROTEASE-NetLogo-Ring-of-Fliers]: <>
-[PROTEASE-NetLogo-Ball-of-Fliers]: <>
-[PROTEASE-NetLogo-Shape-Form]: <>
-[PROTEASE-NetLogo-SCORe]: <>
+[PROTEASE-NetLogo-Gathering]: <https://youtu.be/FgptBQVHsGw>
+[PROTEASE-NetLogo-Guided-Boiding]: <https://youtu.be/em3K2T3ZrX0>
+[PROTEASE-NetLogo-PSO]: <https://youtu.be/N_jqH-WfoPU>
+[PROTEASE-NetLogo-Triangle]: <https://youtu.be/7b30UHHPg4I>
+[PROTEASE-NetLogo-Line-of-Fliers]: <https://youtu.be/X0rLeP0dwH8>
+[PROTEASE-NetLogo-Ring-of-Fliers]: <https://youtu.be/BiFtdmCwRoA>
+[PROTEASE-NetLogo-Ball-of-Fliers]: <https://youtu.be/zSJMDMwmQig>
+[PROTEASE-NetLogo-Shape-Form]: <https://youtu.be/H-CSzOhdDHo>
+[PROTEASE-NetLogo-SCORe]: <https://youtu.be/ACDBlew6raw>
 
-[Maple-Seeding-Robot]: <>
-[MAPLE-Forest-Fire-Planning-Execution]: <>
-[MAPLE-Forest-Fire-HTN-Design]: <>
+[Maple-Seeding-Robot]: <https://youtu.be/A0ZzV-Ba-QY>
+[MAPLE-Forest-Fire-Planning-Execution]: <https://youtu.be/PhJ7bQdYpvE>
+[MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/ztQBfK6HvIc>
 
 [MAPLE-Any-Agent]: <>
 [MAPLE-All-Agent]: <>
@@ -137,6 +141,8 @@ Collective Capability for Protelis Programs
 [PROTEASE-Aggregation-Centroid]: <>
 [PROTEASE-Aggregation-Unknown-Measurement]: <>
 
-[Protelis-Termination]: <>
-[Protelis-Communication]: <>
-[Protelis-Capability-Access]: <>
+[Protelis-Termination-Test]: <https://youtu.be/w24bq9E0IM8>
+[Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
+[Protelis-Measure-Temperature-Test]: <https://youtu.be/HCttW2Ol8EI>
+
+[MAPLE-Combined-Execution]: <>
