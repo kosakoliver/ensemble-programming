@@ -46,6 +46,7 @@ Control Structures and Coordination
 - [MAPLE-Sequential-Execution]: video on YouTube depicting an exemplary sequential execution
 - [MAPLE-Parallel-Execution]: video on YouTube depicting an exemplary sequential execution
 - [MAPLE-Repeated-and-Conditional-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
+- [MAPLE-Repeated-and-Conditional-Execution] (additional): video on YouTube depicting an exemplary parallel, repeated, and conditional execution
 - [MAPLE-Replanning-Execution]: video on YouTube depicting an exemplary repeated and conditional execution
 
 Collective Capabilities
@@ -114,7 +115,7 @@ Maple Combined Execution
 [MAPLE-Sequential-Execution]: <https://youtu.be/2BXdG9OtPmk>
 [MAPLE-Parallel-Execution]: <https://youtu.be/sEiIs57qZ-g>
 [MAPLE-Repeated-and-Conditional-Execution]: <https://youtu.be/vzyXRfX8MxQ>
-[MAPLE-Parallel-Repeated-Conditional-Execution] (additional): <https://youtu.be/sEiIs57qZ-g>
+[MAPLE-Parallel-Repeated-Conditional-Execution]: <https://youtu.be/QR0FJBunQyM>
 [MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
 [PROTEASE-Calculator-PSO]: <>
