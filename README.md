@@ -135,11 +135,11 @@ Maple Combined Execution
 [PROTEASE-Calculator-Gathering-User]: <https://youtu.be/BSIVsxKdE2E>
 
 [PROTEASE-Termination-Centroid]: <https://youtu.be/S0zUjbRtrmc>
-[PROTEASE-Termination-Unknown-Measurement]: <>
+[PROTEASE-Termination-Unknown-Measurement]: <https://youtu.be/5z-YImJIvYQ>
 [PROTEASE-Termination-User]: <https://youtu.be/AmMYYP-b2XM>
 
 [PROTEASE-Aggregation-Centroid]: <https://youtu.be/V0wOt_zQ-s4>
-[PROTEASE-Aggregation-Unknown-Measurement]: <>
+[PROTEASE-Aggregation-Unknown-Measurement]: <https://youtu.be/5z-YImJIvYQ>
 
 [Protelis-Termination-Test]: <https://youtu.be/w24bq9E0IM8>
 [Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
