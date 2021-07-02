@@ -136,9 +136,9 @@ Maple Combined Execution
 
 [PROTEASE-Termination-Centroid]: <https://youtu.be/S0zUjbRtrmc>
 [PROTEASE-Termination-Unknown-Measurement]: <>
-[PROTEASE-Termination-User]: <>
+[PROTEASE-Termination-User]: <https://youtu.be/AmMYYP-b2XM>
 
-[PROTEASE-Aggregation-Centroid]: <>
+[PROTEASE-Aggregation-Centroid]: <https://youtu.be/V0wOt_zQ-s4>
 [PROTEASE-Aggregation-Unknown-Measurement]: <>
 
 [Protelis-Termination-Test]: <https://youtu.be/w24bq9E0IM8>
