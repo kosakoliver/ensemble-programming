@@ -147,4 +147,4 @@ Maple Combined Execution
 [Protelis-Count-Neighbors-Test]: <https://youtu.be/B_QFnJ9VPRA>
 [Protelis-Measure-Temperature-Test]: <https://youtu.be/HCttW2Ol8EI>
 
-[MAPLE-Combined-Execution]: <>
+[MAPLE-Combined-Execution]: <https://youtu.be/6blyWd_Dm8U>
