@@ -113,8 +113,9 @@ Maple Combined Execution
 [MAPLE-Set-Agent]: <https://youtu.be/GJNezzL8V7A>
 [MAPLE-Sequential-Execution]: <https://youtu.be/2BXdG9OtPmk>
 [MAPLE-Parallel-Execution]: <https://youtu.be/sEiIs57qZ-g>
-[MAPLE-Repeated-and-Conditional-Execution]: <>
-[MAPLE-Replanning-Execution]: <>
+[MAPLE-Repeated-and-Conditional-Execution]: <https://youtu.be/vzyXRfX8MxQ>
+[MAPLE-Parallel-Repeated-Conditional-Execution] (additional): <https://youtu.be/sEiIs57qZ-g>
+[MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
 [PROTEASE-Calculator-PSO]: <>
 [PROTEASE-Calculator-Boiding]: <>
