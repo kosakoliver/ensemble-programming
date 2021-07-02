@@ -118,23 +118,21 @@ Maple Combined Execution
 [MAPLE-Parallel-Repeated-Conditional-Execution]: <https://youtu.be/QR0FJBunQyM>
 [MAPLE-Replanning-Execution]: <https://youtu.be/C0BsFtmbFcM>
 
-[PROTEASE-Calculator-PSO]: <>
-[PROTEASE-Calculator-Boiding]: <>
-[PROTEASE-Calculator-Triangle]: <>
+[PROTEASE-Calculator-PSO]: <https://youtu.be/4R6XbN-bYSA>
+[PROTEASE-Calculator-Boiding]: <https://youtu.be/DFiwzvqp8D0>
+[PROTEASE-Calculator-Triangle]: <https://youtu.be/Tb4WJMS_8Ng>
 [PROTEASE-Calculator-Potential-Field]: <>
-[PROTEASE-Calculator-Line]: <>
+[PROTEASE-Calculator-Line]: <https://youtu.be/lZccZ-pPr1c>
 [PROTEASE-Calculator-Ring-of-Fliers]: <>
-[PROTEASE-Calculator-Ball-of-Fliers]: <>
-[PROTEASE-Calculator-Gathering]: <>
+[PROTEASE-Calculator-Ball-of-Fliers]: <https://youtu.be/TECz7wUEaMs>
+[PROTEASE-Calculator-Gathering]: <https://youtu.be/ZgWgeAPEMp4>
  
-[PROTEASE-Calculator-PSO-User]: <>
 [PROTEASE-Calculator-Boiding-User]: <>
 [PROTEASE-Calculator-Triangle-User]: <>
-[PROTEASE-Calculator-Potential-Field-User]: <>
 [PROTEASE-Calculator-Line-User]: <>
-[PROTEASE-Calculator-Ring-of-Fliers-User]: <>
-[PROTEASE-Calculator-Ball-of-Fliers-User]: <>
-[PROTEASE-Calculator-Gathering-User]: <>
+[PROTEASE-Calculator-Ring-of-Fliers-User]: <https://youtu.be/HpMI9JMVCiA>
+[PROTEASE-Calculator-Ball-of-Fliers-User]: <https://youtu.be/E5ikqVxT4cQ>
+[PROTEASE-Calculator-Gathering-User]: <https://youtu.be/BSIVsxKdE2E>
 
 [PROTEASE-Termination-Centroid]: <>
 [PROTEASE-Termination-Unknown-Measurement]: <>
