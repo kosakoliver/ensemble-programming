@@ -109,8 +109,8 @@ Maple Combined Execution
 
 [MAPLE-Any-Agent]: <https://youtu.be/-VlXx2UnId8>
 [MAPLE-All-Agent]: <https://youtu.be/xmXbGi_yb0g>
-[MAPLE-Swarm-Agent]: <>
-[MAPLE-Set-Agent]: <>
+[MAPLE-Swarm-Agent]: <https://youtu.be/TstPvh1I3dE>
+[MAPLE-Set-Agent]: <https://youtu.be/GJNezzL8V7A>
 [MAPLE-Sequential-Execution]: <>
 [MAPLE-Parallel-Execution]: <>
 [MAPLE-Repeated-and-Conditional-Execution]: <>
