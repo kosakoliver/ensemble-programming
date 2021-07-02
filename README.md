@@ -123,7 +123,7 @@ Maple Combined Execution
 [PROTEASE-Calculator-Triangle]: <https://youtu.be/Tb4WJMS_8Ng>
 [PROTEASE-Calculator-Potential-Field]: <>
 [PROTEASE-Calculator-Line]: <https://youtu.be/lZccZ-pPr1c>
-[PROTEASE-Calculator-Ring-of-Fliers]: <>
+[PROTEASE-Calculator-Ring-of-Fliers]: <https://youtu.be/BLw72mW_nk4>
 [PROTEASE-Calculator-Ball-of-Fliers]: <https://youtu.be/TECz7wUEaMs>
 [PROTEASE-Calculator-Gathering]: <https://youtu.be/ZgWgeAPEMp4>
  
