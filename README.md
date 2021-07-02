@@ -107,8 +107,8 @@ Maple Combined Execution
 [MAPLE-Forest-Fire-Planning-Execution]: <https://youtu.be/PhJ7bQdYpvE>
 [MAPLE-Forest-Fire-HTN-Design]: <https://youtu.be/ztQBfK6HvIc>
 
-[MAPLE-Any-Agent]: <>
-[MAPLE-All-Agent]: <>
+[MAPLE-Any-Agent]: <https://youtu.be/-VlXx2UnId8>
+[MAPLE-All-Agent]: <https://youtu.be/xmXbGi_yb0g>
 [MAPLE-Swarm-Agent]: <>
 [MAPLE-Set-Agent]: <>
 [MAPLE-Sequential-Execution]: <>
