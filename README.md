@@ -128,7 +128,7 @@ Maple Combined Execution
 [PROTEASE-Calculator-Gathering]: <https://youtu.be/ZgWgeAPEMp4>
  
 [PROTEASE-Calculator-Boiding-User]: <https://youtu.be/3nVas3PfRNM>
-[PROTEASE-Calculator-Triangle-User]: <>
+[PROTEASE-Calculator-Triangle-User]: <https://youtu.be/lcVu4g7h4-4>
 [PROTEASE-Calculator-Line-User]: <https://youtu.be/YjR4uw7stkY>
 [PROTEASE-Calculator-Ring-of-Fliers-User]: <https://youtu.be/HpMI9JMVCiA>
 [PROTEASE-Calculator-Ball-of-Fliers-User]: <https://youtu.be/E5ikqVxT4cQ>
