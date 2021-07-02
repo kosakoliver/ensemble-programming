@@ -134,7 +134,7 @@ Maple Combined Execution
 [PROTEASE-Calculator-Ball-of-Fliers-User]: <https://youtu.be/E5ikqVxT4cQ>
 [PROTEASE-Calculator-Gathering-User]: <https://youtu.be/BSIVsxKdE2E>
 
-[PROTEASE-Termination-Centroid]: <>
+[PROTEASE-Termination-Centroid]: <https://youtu.be/S0zUjbRtrmc>
 [PROTEASE-Termination-Unknown-Measurement]: <>
 [PROTEASE-Termination-User]: <>
 
